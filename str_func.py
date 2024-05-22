@@ -1,6 +1,7 @@
-﻿def str_func(value: str):
-    """function"""
-    return value.upper()
+﻿def str_func(a):
+    """function that makes text from capital letters"""
+    return a.upper()
+
 
 
 def up_one(value: str):
