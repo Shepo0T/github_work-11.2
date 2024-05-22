@@ -1,5 +1,5 @@
 ﻿def str_func(value: str):
-    """ pass """
+    """function"""
     return value.upper()
 
 
