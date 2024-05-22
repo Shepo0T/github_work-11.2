@@ -4,5 +4,5 @@
 
 
 def up_one(value: str):
-    """function capitalizes all words"""
+    """Function capitalizes all words"""
     return value.title()
