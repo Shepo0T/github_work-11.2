@@ -1,4 +1,4 @@
 ﻿def str_func(a):
-    """Function that displays text in capital letters"""
+    """function that makes text from capital letters"""
     return a.upper()
 
